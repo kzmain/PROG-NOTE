@@ -20,3 +20,6 @@ std::vector<int> twoSum(std::vector<int>& nums, int target) {
    throw not_found_exception();
 }
 ```
+
+2. Reference
+https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm
