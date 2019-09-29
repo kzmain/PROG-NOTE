@@ -5,3 +5,4 @@ Best Wishes~
 # Kai
 请补充c++ string[index] 和 &string[index]的区别
 请补充边界注意事项
+请补充trinary operator
