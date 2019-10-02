@@ -14,7 +14,6 @@ public:
             return 0;
         if(rev < INT_MIN / 10 || (rev == INT_MIN / 10 && pop < -8))
             return 0;
-       
 
         rev = rev * 10 + pop;
     }
