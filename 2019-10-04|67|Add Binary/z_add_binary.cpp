@@ -2,14 +2,8 @@
 #include <string>
 #include <list>
 
-
-//std::string a_in = "1010";
-//std::string b_in = "1011";
-
 std::string a_in = "100";
 std::string b_in = "110010";
-//std::string a_in = "11";
-//std::string b_in = "1";
 
 std::string addBinary(std::string a, std::string b) {
     std::string sshort;
@@ -21,9 +15,8 @@ std::string addBinary(std::string a, std::string b) {
 
     std::reverse(a.begin(), a.end());   //a - string
     std::reverse(b.begin(), b.end());
-
     sshort = a.size() <= b.size() ? a : b;
-    slong =  a.size() > b.size() ? a : b;           // line22-26  先翻转再赋值，因为后面会用到sshort/slong，要保证是翻转过后的string，不然输出会有问题问题
+    slong =  a.size() > b.size() ? a : b;           // line 16-19  先翻转再赋值，因为后面会用到sshort/slong，要保证是翻转过后的string，不然输出会有问题问题
 
     for(; offset < sshort.size(); offset++){
         if(a[offset] == '0' && b[offset] == '0'){        //char - ''   string - " "
