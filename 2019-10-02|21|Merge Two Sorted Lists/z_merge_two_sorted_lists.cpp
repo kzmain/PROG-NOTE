@@ -62,10 +62,10 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
     ListNode* n1 = l1;
     ListNode* n2 = l2;
     ListNode* l3_start = nullptr;
-    ListNode* l3_end = nullptr;
+    ListNode* l3_end = nullptr;             //初始化时将pointer = nullptr, 不然是野指针，会随便指到内存里，很严重！！
 
     if(l1 == nullptr) return l2;
-    if(l2 == nullptr) return l1;
+    if(l2 == nullptr) return l1;                //如其中一个为空，则返回另一个list
     while(n1 != nullptr && n2 != nullptr){
         if(n1->val <= n2->val) {
             l3_end = add(l3_end, n1->val);
@@ -113,3 +113,4 @@ int main() {
     auto a = mergeTwoLists(list1, list2);
     return 0;
 }
+
