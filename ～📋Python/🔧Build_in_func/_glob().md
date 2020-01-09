@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/800197/how-to-get-all-of-the-immediate-subdirectories-in-python
