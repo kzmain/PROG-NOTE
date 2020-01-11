@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/20261517/inheritance-of-private-and-protected-methods-in-python
