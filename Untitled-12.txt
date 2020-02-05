@@ -1,0 +1,69 @@
+具备实际项目经验，熟练使用sklearn，TensorFlow 等机器学习库；
+推荐算法
+统计学
+.熟悉LR/GBDT/XGBoost/聚类/关联分析等常用的数据挖掘方法 
+熟悉cnn，boost，svm其中至少一种，并且有实战经验
+统计机器学习（如深度神经网络、Boosting、图模型、概率统计、最优化方法等）
+
+
+线性回归和逻辑回归区别，推导逻辑回归
+ID3、C4.5、CART的区别，写信息增益、信息增益率、基尼系数的公式
+树有几种剪枝的方式，各有什么优缺点
+解释一下排序的稳定性，冒泡排序是否稳定，复杂度多少
+
+gbdt和xgboost区别
+adaboost和gbdt区别
+过拟合怎么解决
+CNN参数量计算
+如何评价一个分类器，auc的工程计算方式，roc曲线
+总监面
+问实习项目
+推导FM、FFM
+问了一点强化学习概念
+
+
+
+
+
+
+DNN/RNN/CNN/LSTM
+
+语言：
+    Hash Map的实现吗，具体说一下
+
+大数据处理框架：
+    1. Spark
+        spark三种运行模式
+        spark on yarn
+    2. Hadoop
+        spark和hadoop的区别
+    spark corel/streaming
+机器学习：
+    扎实的机器学习或模式识别理论基础；如分类、回归、聚类、概率模型等；
+深度学习库：
+    TensorFlow
+    熟悉深度学习库优先，比如MXNet,, Torch, Theano, Keras等;
+
+NLP方向：
+    NLP库，如nltk，jieba,coreNLP等;
+
+
+掌握ML/DL/DRL、统计、OR等算法(降维、分类、回归、聚类、深度学习、强化学习、图计算、凸优化等 )。
+2、掌握移动通信原理，熟悉4/5G协议，信号处理，信号估计等原理。
+3、熟练Tensor flow、Caffe、MXNet等常用深度学习工具，Hadoop/Spark等大数据平台上开发机器学习算法。
+4、掌握AIOps、用户画像、推荐算法。
+Hadoop/Hive
+
+
+《深入浅出统计学》《商务与经济统计》《数据挖掘概念与技术》
+可汗学院公开课：概率论   麻省理工毕业生创立，讲课节奏明快，思路清晰，逻辑性强。                         
+Coursera：计算导论  知名的学习网站，内容很多很足。        
+优达学城：统计学基础  应该是统计学网课中最全的了，包含了抽样分布，假设检验等，讲课风格很有趣，包办了我的统计学入门。
+
+
+SQL：     
+    《Database Management Systems 3rd Edition》     
+    《数据库原理》      
+     Udemy：数据分析技能速成 Microsoft SQL    
+     python&R：      《利用PYTHON进行数据分析》与pandas是同一个作者，这本书可以帮你入门numpy，pandas，matplotlib，但是要注意，代码不要看一遍就觉得都会了，动手敲一敲会有不一样的体验。       
+     《统计建模与R软件》 薛毅老师的经典作品，融合了统计与编程。        廖雪峰python   业界大咖，以生动有趣著称，但缺点就是缺少互动性，有问题找不到老师答疑。

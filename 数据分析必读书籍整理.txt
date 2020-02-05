@@ -1,0 +1,60 @@
+PY		E1		Python学习手册			9781449355739			Learning Python 			P1507 	✅
+ST 		E1		深入浅出统计学			9780596527587			Head First Statistics			P677	✅
+DA 		E1		深入浅出数据分析			9780596153939			Head First Data Analysis		P433	✅
+ML				机器学习实战				
+
+
+Python 		Python 			PY
+统计学		Statistics		ST
+数据分析		Data Analysis	DA
+
+
+统计学
+*	Naked Statistics: Strippin～		赤裸裸的统计学
+-------------------------------------------------------------------
+数据分析
+*	Data Analytics for Beginners: Basic Guide to Master Data Analytics
+*	Python for Data Analysis		利用Python进行数据分析
+*	Data Analysis with Ope～			数据之魅
+*	Data Mining Concepts and Te~	数据挖掘：概念与技术(原书第3版）
+*	Doing Data Science				数据科学实战
+*	Mining the Social Web: Anal~	社交网站的数据挖掘与分析
+*	Python for Data Analysis		利用Python进行数据分析
+*	Python for Finance: Anal~		Python金融大数据分析
+*	Lean Analytics: Use Data to ~	精益数据分析
+*	Python Data Science Handbook	Python数据科学手册
+*	Storytelling with Data	
+-------------------------------------------------------------------
+语言
+*	R in Action						R语言实战
+-------------------------------------------------------------------
+深度学习
+吴恩达 机器学习
+深度学习(花书)
+吴恩达 Deep Learning Specialization
+Fast.ai (练习)
+cs231n + CS224n
+Python深度学习
+-------------------------------------------------------------------
+算法
+算法(第四版)
+算法导论（原书第三版）
+LeetCode
+-------------------------------------------------------------------	
+Java
+Effective Java
+Core Java
+-------------------------------------------------------------------	
+SQL
+LearningSQL		SQL学习指南（第2版 修订版）
+SQL Cookbook	SQL经典实例
+High Performance MySQL
+-------------------------------------------------------------------	
+
+提高
+Clean code
+Clean coder
+The Pragmatic Programmer
+Domain-Driven Design
+Growing Object-Oriented Software，Guided by test
+Continous Delivery
