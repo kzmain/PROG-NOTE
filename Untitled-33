@@ -1,0 +1,182 @@
+Open CL VS CUDA
+
+ssh
+    https://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password
+    https://stackoverflow.com/questions/9447226/how-to-close-this-ssh-tunnel
+Termianl
+    https://www.tecmint.com/cd-command-in-linux/
+swift-ui
+    https://www.raywenderlich.com/3715234-swiftui-getting-started
+    https://segmentfault.com/a/1190000011319297
+c++
+    https://www.geeksforgeeks.org/set-count-function-in-c-stl/
+MacOS
+    https://support.apple.com/en-us/HT201236
+
+    Command-K
+
+    LSTM
+PCA
+
+CUDA
+	https://devtalk.nvidia.com/default/topic/784309/why-accuracy-cpu-and-gpu-not-equal-/
+
+C++
+    https://stackoverflow.com/questions/3177241/what-is-the-best-way-to-concatenate-two-vectors
+    https://www.techiedelight.com/sort-vector-descending-order-cpp/
+Data Structure
+    https://en.wikipedia.org/wiki/Heap_(data_structure)
+TED
+	https://www.youtube.com/watch?v=esPRsT-lmw8
+Camera
+	https://zhuanlan.zhihu.com/p/86779943
+Dress UP
+	https://www.zhihu.com/question/339080064/answer/864948757
+Hadoop
+    https://www.javatpoint.com/what-is-hadoop
+朴素贝叶斯分类器
+https://zh.wikipedia.org/wiki/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8
+CNN:
+	https://zhuanlan.zhihu.com/p/26386980
+SSH
+
+brew switch python3.6.5_1
+https://itsfoss.com/mount-exfat/
+https://superuser.com/questions/46512/create-a-tar-file-for-compressing-files-and-directories-on-mac-os-x
+Spark
+	Parquet:
+		https://stackoverflow.com/questions/49122064/reading-parquet-file-with-pyspark
+	pyspark
+		https://stackoverflow.com/questions/34514545/spark-dataframe-groupby-and-sort-in-the-descending-order-pyspark
+		https://stackoverflow.com/questions/36251004/pyspark-aggregation-on-multiple-columns
+		https://stackoverflow.com/questions/42312042/how-to-replace-all-null-values-of-a-dataframe-in-pyspark
+		https://stackoverflow.com/questions/48793701/adding-a-group-count-column-to-a-pyspark-dataframe
+		https://stackoverflow.com/questions/44713799/pyspark-removing-null-values-from-a-column-in-dataframe
+		https://stackoverflow.com/questions/34077353/how-to-change-dataframe-column-names-in-pyspark
+		https://stackoverflow.com/questions/34624681/how-to-create-an-empty-dataframe-why-valueerror-rdd-is-empty
+		https://stackoverflow.com/questions/30518362/how-do-i-set-the-drivers-python-version-in-spark
+		https://stackoverflow.com/questions/28413423/count-number-of-rows-in-an-rdd
+		https://stackoverflow.com/questions/52943627/convert-a-pandas-dataframe-to-a-pyspark-dataframe
+		https://stackoverflow.com/questions/36251004/pyspark-aggregation-on-multiple-columns
+		https://stackoverflow.com/questions/49301373/pyspark-filter-dataframe-based-on-multiple-conditions
+Pandas
+
+https://stackoverflow.com/questions/25254016/pandas-get-first-row-value-of-a-given-column
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_parquet.html
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+	https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+	https://stackoverflow.com/questions/48257889/how-to-get-unique-values-in-all-columns-in-pandas-data-frame
+	https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby
+	https://stackoverflow.com/questions/48768650/groupby-sum-and-count-on-multiple-columns-in-python
+	https://stackoverflow.com/questions/49766588/pandas-sort-by-multiple-columns
+	https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+	https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+	https://cmdlinetips.com/2019/03/how-to-select-top-n-rows-with-the-largest-values-in-a-columns-in-pandas/
+	https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html
+
+	https://www.geeksforgeeks.org/get-n-largest-values-from-a-particular-column-in-pandas-dataframe/
+	https://stackoverflow.com/questions/39922986/pandas-group-by-and-sum
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+	https://kite.com/python/examples/3182/pandas-select-columns-of-a-%60dataframe%60-by-column-names
+	https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+	https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+	https://stackoverflow.com/questions/12960574/pandas-read-csv-index-col-none-not-working-with-delimiters-at-the-end-of-each-li
+	https://www.datacamp.com/community/tutorials/joining-dataframes-pandas
+	https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+	https://stackoverflow.com/questions/19914937/applying-function-with-multiple-arguments-to-create-a-new-pandas-column
+	https://stackoverflow.com/questions/49237663/passing-a-function-with-multiple-arguments-to-dataframe-apply
+	https://stackoverflow.com/questions/8858008/how-to-move-a-file-in-python
+	https://www.geeksforgeeks.org/pandas-groupby/
+	https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+	https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining
+	https://stackoverflow.com/questions/33359740/random-number-between-0-and-1-in-python
+	https://stackoverflow.com/questions/20001490/draw-line-on-google-map-javascript-api
+	https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/polyline-simple
+	https://stackoverflow.com/questions/46119086/two-google-maps-displaying-on-one-page
+Bokeh
+	http://docs.bokeh.org/en/1.3.2/docs/reference/palettes.html#bokeh.palettes.magma
+	https://kite.com/python/docs/bokeh.palettes
+	https://docs.bokeh.org/en/latest/docs/gallery/texas.html
+	https://stackoverflow.com/questions/32652231/automatically-fit-bokeh-plot-to-screen
+Python
+python:
+	Dictionary:
+		https://www.w3schools.com/python/python_dictionaries.asp
+	String:
+		https://stackoverflow.com/questions/50316440/python-split-string-with-space-delimiter
+		https://www.geeksforgeeks.org/python-string-replace/
+		https://www.learnpython.org/en/String_Formatting
+		https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/
+	JSON
+		https://www.w3schools.com/python/python_json.asp
+	List:
+		https://www.tutorialspoint.com/python/python_lists.htm
+	range():
+		https://pynative.com/python-range-function/
+	Exception:
+		https://stackoverflow.com/questions/6470428/catch-multiple-exceptions-in-one-line-except-block
+	Multiprocessing
+		https://stackoverflow.com/questions/8533318/multiprocessing-pool-when-to-use-apply-apply-async-or-map
+		https://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9
+	File:
+		https://stackabuse.com/how-to-create-move-and-delete-files-in-python/
+	Operator:
+		https://www.geeksforgeeks.org/ternary-operator-in-python/
+Jupiter
+https://jupyter.readthedocs.io/en/latest/running.html
+ShapeFile
+https://gis.stackexchange.com/questions/113799/how-to-read-a-shapefile-in-python
+Javascript
+https://javascript.info/script-async-defer
+https://stackoverflow.com/questions/17636528/how-do-i-load-an-html-page-in-a-div-using-javascript
+https://www.w3schools.com/tags/att_script_src.asp
+https://www.w3schools.com/xml/met_document_getelementsbytagname.asp
+Normalization
+https://www.jianshu.com/p/fa73a07cd750
+https://en.wikipedia.org/wiki/Feature_scaling
+Git
+
+https://support.beanstalkapp.com/article/1004-how-do-i-undo-things-in-git#4
+https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/
+https://dev.to/neshaz/how-to-git-stash-your-work-the-correct-way-cna
+https://stackoverflow.com/questions/5816688/resetting-remote-to-a-certain-commit
+Color
+https://stackoverflow.com/questions/25668828/how-to-create-colour-gradient-in-python
+matpotlib
+
+https://stackoverflow.com/questions/28506907/how-to-make-matplotlib-show-all-x-coordinates
+https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
+https://stackoverflow.com/questions/217578/how-can-i-determine-whether-a-2d-point-is-within-a-polygon
+TODO
+
+https://stackoverflow.com/questions/42991198/how-do-i-read-a-parquet-in-pyspark-written-from-spark
+
+https://stackoverflow.com/questions/36132899/pyspark-add-a-column-to-dataframe-when-column-is-a-list
+
+https://realpython.com/intro-to-python-threading/
+https://thispointer.com/python-how-to-delete-a-directory-recursively-using-shutil-rmtree/
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_try_except.asp
+https://www.tutorialspoint.com/python/os_mkdir.htm
+https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+https://superuser.com/questions/678113/how-to-add-a-line-to-bash-profile
+https://stackoverflow.com/questions/7703041/editing-path-variable-on-mac
+https://gis.stackexchange.com/questions/208546/check-if-a-point-falls-within-a-multipolygon-with-python
+https://github.com/gboeing/osmnx
+
+https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
+https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
+
+https://www.codementor.io/codementorteam/a-comprehensive-guide-to-implementation-of-singly-linked-list-using-c_plus_plus-ondlm5azr
+http://stackoverflow.com/questions/7243750/download-file-from-web-in-python-3
+https://stackoverflow.com/questions/36505156/spark-how-to-save-a-dataframe-with-headers
+http://www.cplusplus.com/reference/algorithm/reverse/
+摄影
+
+https://www.zhihu.com/question/322039312/answer/850855590
+https://www.zhihu.com/question/60541930/answer/864945152
+https://www.zhihu.com/question/20250029
+https://www.zhihu.com/question/38551122
+https://www.zhihu.com/question/27822122
+https://zhuanlan.zhihu.com/p/27929648

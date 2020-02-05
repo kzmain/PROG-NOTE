@@ -1,0 +1,46 @@
+C++
+    while loop
+    https://www.w3schools.com/cpp/cpp_while_loop.asp
+    stack pop
+    http://www.cplusplus.com/reference/stack/stack/pop/
+    Vector
+        https://stackoverflow.com/questions/3177241/what-is-the-best-way-to-concatenate-two-vectors
+        https://stackoverflow.com/questions/421573/best-way-to-extract-a-subvector-from-a-vector
+    binary
+        https://stackoverflow.com/questions/25441364/how-to-read-a-binary-number-as-input
+    Operator Shift
+        https://www.geeksforgeeks.org/left-shift-right-shift-operators-c-cpp/
+    Binary operators
+        https://www.geeksforgeeks.org/operators-c-c/
+        https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
+        https://doc.embedded-wizard.de/uint8-uint16-uint32-type?v=9.00
+    STOi
+        http://www.cplusplus.com/reference/string/stoi/
+    string
+        https://www.tutorialspoint.com/substring-in-cplusplus
+    Vector
+        https://stackoverflow.com/questions/13110130/initialize-a-vector-to-zeros-c-c11
+    STD
+        https://stackoverflow.com/questions/28574346/find-average-of-input-to-vector-c
+        https://stackoverflow.com/questions/8222127/changing-integer-to-binary-string-of-digits
+    Qt
+        https://wiki.qt.io/Qt_for_Beginners
+        https://www.youtube.com/watch?v=I96uPDifZ1w
+算法
+    红黑树
+        https://blog.csdn.net/v_JULY_v/article/details/6105630
+        https://zhuanlan.zhihu.com/p/31805309
+        https://www.jianshu.com/p/e136ec79235c
+    单链
+        https://www.codementor.io/@codementorteam/a-comprehensive-guide-to-implementation-of-singly-linked-list-using-c_plus_plus-ondlm5azr
+数学
+    https://brilliant.org/wiki/greatest-common-divisor/
+Tedx
+    https://www.youtube.com/watch?v=5MuIMqhT8DM
+    https://www.youtube.com/watch?v=Hu4Yvq-g7_Y
+    https://www.google.com/search?q=Presence%3A+Bringing+Your+Boldest+Self+to+Your+Biggest+Challenges&rlz=1C1CHBF_enNL880NL880&oq=Presence%3A+Bringing+Your+Boldest+Self+to+Your+Biggest+Challenges&aqs=chrome..69i57j69i58j69i60l2&sourceid=chrome&ie=UTF-8
+    https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?referrer=playlist-the_most_popular_talks_of_all#t-893444
+    https://www.ted.com/playlists/171/the_most_popular_talks_of_all
+SVM
+    https://blog.csdn.net/mm_bit/article/details/46988925
+    https://blog.csdn.net/qq_32690999/article/details/78737393
